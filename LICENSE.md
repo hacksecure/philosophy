@@ -1,0 +1,1 @@
+This repository is licensed under the Attribution-ShareAlike 4.0 International license, also known as the *CC BY-SA 4.0*. You can view the full text [here](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
