@@ -1,3 +1,5 @@
+# As of right now, all content in this organization and repo should be considered a work in progress and not finalized.
+
 # Philosophy of [hacksecu.re](https://hacksecu.re)
 ## What is this?
 At its most basic,[hacksecu.re](https://hacksecu.re) is a web app designed to give hackers feedback on the security and privacy of any hackathon website. 
